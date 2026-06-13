@@ -149,9 +149,3 @@ To see Basanti in action, send these exact phrases to your Telegram Bot:
 - [ ] **Automated Supplier Ordering:** Trigger SMS to distributors when stock is low.
 - [ ] **Voice Cloning:** Basanti responds with conversational voice audio.
 - [ ] **Barcode Scanning:** Upload an image of a barcode via Telegram to log items.
-
----
-<div align="center">
-  <i>Built with intense focus and excessive caffeine for CODE CARNAGE 2.0.</i>
-</div>
-```

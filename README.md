@@ -99,7 +99,7 @@ cd basanti
 
 ### 2. Install Dependencies
 ```bash
-pip install fastapi uvicorn httpx pandas sqlite3 jinja2 python-multipart
+pip install -r requirements.txt
 ```
 
 ### 3. Environment Configuration
